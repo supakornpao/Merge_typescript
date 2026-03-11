@@ -1,5 +1,5 @@
 Setup steps for this project
-1. Install type script globally using "npm install -g typescript".
+1. Install typescript globally using "npm install -g typescript".
 2. Create project folder (mkdir [folder_name])
 3. Make directories for code file and test ("mkdir src" and "mkdir test")
 4. At the root directory of project, run "npm init -y"
